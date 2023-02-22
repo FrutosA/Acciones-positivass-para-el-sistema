@@ -1,2 +1,2 @@
 # Acciones-positivass-para-el-sistema
-En este repositorio encontrarás dos carpetas con el contenido en ESPAÑOL y en INGLÉS.
+## En este repositorio encontrarás dos carpetas con el contenido en ESPAÑOL y en INGLÉS. Elige la que quieras.
