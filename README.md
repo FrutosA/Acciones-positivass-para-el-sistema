@@ -3,6 +3,7 @@
 
 En la carpeta ACCIONES_POSITIVAS(ESPAÑOL) encotraras otras tres carpetas GENERAL, OPTIMIZACIÓN_SERVICIOS y COMPROBACION_ARCHIVOS.
 
+
 ### CARPETA GENERAL.
 En esta carpeta encontraras un Script en formato .bat, llamado MENU_ACCIONES_OPTIMIZACION. 
 Este contiene un menu que comprende algunas opciones para optimizar el equipo. 
