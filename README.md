@@ -1,7 +1,7 @@
 # Acciones-positivass-para-el-sistema WINDOWS 10
 ## En este repositorio encontrarás dos carpetas con el contenido en ESPAÑOL y en INGLÉS. Elige la que quieras.
 
-En la carpeta ACCIONES_POSITIVAS(ESPAÑOL) encotraras otras tres carpetas GENERAL, OPTIMIZACIÓN_SERVICIOS y COMPROBACION_ARCHIVOS.
+En la carpeta encotraras otras tres carpetas GENERAL, OPTIMIZACIÓN_SERVICIOS y COMPROBACION_ARCHIVOS.
 
 
 ### CARPETA GENERAL.
