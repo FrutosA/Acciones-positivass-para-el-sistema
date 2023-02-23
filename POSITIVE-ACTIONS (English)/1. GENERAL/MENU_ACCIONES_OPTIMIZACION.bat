@@ -8,15 +8,15 @@ set "OPTION2_INPUT="
 set "OPTION3_INPUT="
 set "OPTION4_INPUT="
 echo +===============================================+
-echo . OPCIONES DE TRABAJOS PARA OPTIMIZAR                          .
+echo . OPTIONS OPTIMIZED JOBS                          .
 echo +===============================================+
 echo .                                               
-echo .  1) AUTOMATIZACION DE SERVICIOS W10           
-echo .  2) BORRAR CACHE DNS                          
-echo .  3) ELIMINAR ONE DRIVE                        
-echo .  4) COMPROBAR ARCHIVOS PERJUDICADOS DEL SISTEMA    
+echo .  1) AUTOMATION DEACTIVATION OF SERVICES W10           
+echo .  2) DELETE CACHE DNS                          
+echo .  3) DELETE ONE DRIVE                        
+echo .  4) CHECK FILES TO SYSTEM    
 echo .  5) EXIT                                      
-echo .                                               
+echo .                                                     
 echo +===============================================+
 set /p MENU_OPTION="OPTION: "
 
