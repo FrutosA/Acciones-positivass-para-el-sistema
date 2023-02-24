@@ -203,3 +203,5 @@ DISM /Online /Cleanup-Image /ScanHealth
 DISM /Online /Cleanup-Image /RestoreHealth
 ````
 
+
+Mas información en mi perfil de Linkedln: https://www.linkedin.com/in/andr%C3%A9s-frutos-ruzafa-6574911ab/
