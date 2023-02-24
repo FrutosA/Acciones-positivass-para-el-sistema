@@ -8,12 +8,12 @@ En la carpeta encotraras otras tres carpetas GENERAL, OPTIMIZACIÓN_SERVICIOS y 
 En esta carpeta encontraras un Script en formato .bat, llamado MENU_ACCIONES_OPTIMIZACION. 
 Este contiene un menu que comprende algunas opciones para optimizar el equipo. 
 Las opciones son: 
-1. Desabilitar algunos servicios que normalmente no se usan.
+1. Deshabilitar algunos servicios que normalmente no se usan.
 2. Borrar el cache de la DNS.
 3. Eliminar la aplicación de ONEDRIVE (ya que esta suele iniciarse automaticamente y tambien consume una cantidad minima en segundo plano).
 4. Comprobar archivos dañados del sistema. 
 
-Esta ultima opción tarda su tiempo y al reiniciar el equipo o volver a encencerlo es cuando realmente se hace un escaneo de los archivos del disco duro donde esta el sistema instalado. Es recomendable hacerla cuando no se valla a hacer un uso del equipo.
+Esta última opción tarda su tiempo y al reiniciar el equipo o volver a encencerlo es cuando realmente se hace un escaneo de los archivos del disco duro. Donde esta el sistema instalado. Es recomendable hacerla cuando no se valla a hacer un uso del equipo.
 
 #### Sintaxis del menu con todas las opciones:
 ````
@@ -191,7 +191,7 @@ net stop XboxNetApiSvc
 
 ### CARPETA COMPROBACION_ARCHIVOS_DISCO_DURO.
 En esta carpeta encontraras un Script en formato .bat, llamado COMPROBACION_ARCHIVOS_HD. 
-Este contiene solo la parte del script anterior referente a los comandos empleados para . 
+Este contiene solo la parte del script anterior referente a los comandos empleados para analizar el disco duro. 
 
 #### Sintaxis del fragmento del script anterior:
 
